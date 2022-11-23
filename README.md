@@ -2,6 +2,6 @@
 
 Developed with Unreal Engine 5
 
-Gameplay video: https://youtu.be/vwg1mcmzlGs
+Gameplay video: https://youtu.be/KX7efxEj_Ms
 
-![https://youtu.be/vwg1mcmzlGs](https://github.com/n1nj4z33/ObstacleAssault/blob/master/ObstacleAssault.png)
+![https://youtu.be/KX7efxEj_Ms](https://github.com/n1nj4z33/ObstacleAssault/blob/master/ObstacleAssault.png)
